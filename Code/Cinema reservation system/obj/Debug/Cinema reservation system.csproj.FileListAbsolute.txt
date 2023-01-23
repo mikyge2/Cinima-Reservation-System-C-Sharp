@@ -1,0 +1,44 @@
+C:\Users\user\Desktop\x\c#\Cinema reservation system\Cinema reservation system\bin\Debug\Cinema reservation system.exe.config
+C:\Users\user\Desktop\x\c#\Cinema reservation system\Cinema reservation system\bin\Debug\Cinema reservation system.exe
+C:\Users\user\Desktop\x\c#\Cinema reservation system\Cinema reservation system\bin\Debug\Cinema reservation system.pdb
+C:\Users\user\Desktop\x\c#\Cinema reservation system\Cinema reservation system\obj\Debug\Cinema reservation system.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\x\c#\Cinema reservation system\Cinema reservation system\obj\Debug\Cinema reservation system.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\x\c#\Cinema reservation system\Cinema reservation system\obj\Debug\Cinema_reservation_system.login.resources
+C:\Users\user\Desktop\x\c#\Cinema reservation system\Cinema reservation system\obj\Debug\Cinema_reservation_system.Properties.Resources.resources
+C:\Users\user\Desktop\x\c#\Cinema reservation system\Cinema reservation system\obj\Debug\Cinema reservation system.csproj.GenerateResource.cache
+C:\Users\user\Desktop\x\c#\Cinema reservation system\Cinema reservation system\obj\Debug\Cinema reservation system.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\x\c#\Cinema reservation system\Cinema reservation system\obj\Debug\Cinema reservation system.exe
+C:\Users\user\Desktop\x\c#\Cinema reservation system\Cinema reservation system\obj\Debug\Cinema reservation system.pdb
+C:\Users\user\Desktop\x\c#\Cinema reservation system\Cinema reservation system\obj\Debug\Cinema_reservation_system.mainpage.resources
+C:\Users\user\Desktop\x\c#\Cinema reservation system\Cinema reservation system\obj\Debug\Cinema_reservation_system.cinematicket.resources
+C:\Users\user\Desktop\x\c#\Cinema reservation system\Cinema reservation system\obj\Debug\Cinema_reservation_system.seats.resources
+C:\Users\lenovo\Desktop\Cinema reservation system\Cinema reservation system\Cinema reservation system\bin\Debug\Cinema reservation system.exe.config
+C:\Users\lenovo\Desktop\Cinema reservation system\Cinema reservation system\Cinema reservation system\bin\Debug\Cinema reservation system.exe
+C:\Users\lenovo\Desktop\Cinema reservation system\Cinema reservation system\Cinema reservation system\bin\Debug\Cinema reservation system.pdb
+C:\Users\lenovo\Desktop\Cinema reservation system\Cinema reservation system\Cinema reservation system\obj\Debug\Cinema reservation system.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\Cinema reservation system\Cinema reservation system\Cinema reservation system\obj\Debug\Cinema reservation system.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenovo\Desktop\Cinema reservation system\Cinema reservation system\Cinema reservation system\obj\Debug\Cinema_reservation_system.cinematicket.resources
+C:\Users\lenovo\Desktop\Cinema reservation system\Cinema reservation system\Cinema reservation system\obj\Debug\Cinema_reservation_system.login.resources
+C:\Users\lenovo\Desktop\Cinema reservation system\Cinema reservation system\Cinema reservation system\obj\Debug\Cinema_reservation_system.mainpage.resources
+C:\Users\lenovo\Desktop\Cinema reservation system\Cinema reservation system\Cinema reservation system\obj\Debug\Cinema_reservation_system.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Cinema reservation system\Cinema reservation system\Cinema reservation system\obj\Debug\Cinema_reservation_system.seats.resources
+C:\Users\lenovo\Desktop\Cinema reservation system\Cinema reservation system\Cinema reservation system\obj\Debug\Cinema reservation system.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\Cinema reservation system\Cinema reservation system\Cinema reservation system\obj\Debug\Cinema reservation system.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Cinema reservation system\Cinema reservation system\Cinema reservation system\obj\Debug\Cinema reservation system.exe
+C:\Users\lenovo\Desktop\Cinema reservation system\Cinema reservation system\Cinema reservation system\obj\Debug\Cinema reservation system.pdb
+C:\Users\lenovo\Desktop\Cinema reservation system\Cinema reservation system\Cinema reservation system\obj\Debug\Cinema_reservation_system.forgotpass.resources
+C:\Users\lenovo\Desktop\Cinema Reservation System\Code\Cinema Reservation System Version 2\Cinema reservation system\obj\Debug\Cinema reservation system.csproj.AssemblyReference.cache
+C:\Users\lenovo\Desktop\Cinema Reservation System\Code\Cinema Reservation System Version 2\Cinema reservation system\obj\Debug\Cinema reservation system.csproj.SuggestedBindingRedirects.cache
+C:\Users\lenovo\Desktop\Cinema Reservation System\Code\Cinema Reservation System Version 2\Cinema reservation system\obj\Debug\Cinema_reservation_system.cinematicket.resources
+C:\Users\lenovo\Desktop\Cinema Reservation System\Code\Cinema Reservation System Version 2\Cinema reservation system\obj\Debug\Cinema_reservation_system.forgotpass.resources
+C:\Users\lenovo\Desktop\Cinema Reservation System\Code\Cinema Reservation System Version 2\Cinema reservation system\obj\Debug\Cinema_reservation_system.login.resources
+C:\Users\lenovo\Desktop\Cinema Reservation System\Code\Cinema Reservation System Version 2\Cinema reservation system\obj\Debug\Cinema_reservation_system.mainpage.resources
+C:\Users\lenovo\Desktop\Cinema Reservation System\Code\Cinema Reservation System Version 2\Cinema reservation system\obj\Debug\Cinema_reservation_system.Properties.Resources.resources
+C:\Users\lenovo\Desktop\Cinema Reservation System\Code\Cinema Reservation System Version 2\Cinema reservation system\obj\Debug\Cinema_reservation_system.seats.resources
+C:\Users\lenovo\Desktop\Cinema Reservation System\Code\Cinema Reservation System Version 2\Cinema reservation system\obj\Debug\Cinema reservation system.csproj.GenerateResource.cache
+C:\Users\lenovo\Desktop\Cinema Reservation System\Code\Cinema Reservation System Version 2\Cinema reservation system\obj\Debug\Cinema reservation system.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\Desktop\Cinema Reservation System\Code\Cinema Reservation System Version 2\Cinema reservation system\obj\Debug\Cinema reservation system.exe
+C:\Users\lenovo\Desktop\Cinema Reservation System\Code\Cinema Reservation System Version 2\Cinema reservation system\obj\Debug\Cinema reservation system.pdb
+C:\Users\lenovo\Desktop\Cinema Reservation System\Code\Cinema Reservation System Version 2\Cinema reservation system\bin\Debug\Cinema reservation system.exe.config
+C:\Users\lenovo\Desktop\Cinema Reservation System\Code\Cinema Reservation System Version 2\Cinema reservation system\bin\Debug\Cinema reservation system.exe
+C:\Users\lenovo\Desktop\Cinema Reservation System\Code\Cinema Reservation System Version 2\Cinema reservation system\bin\Debug\Cinema reservation system.pdb
